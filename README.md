@@ -96,5 +96,5 @@ Simulation Demonstration:  [Click](https://drive.google.com/drive/folders/1RO7SM
 
 * `Traffic rules violation detection`
 <p align="center">
-    <img src="./Traffic rules violation detection in python _ data science project _ fyp project(720P_HD) (online-video-cutter.com).gif">
+    <img src="./rules.gif">
 </p>
