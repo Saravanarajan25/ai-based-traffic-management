@@ -80,3 +80,17 @@ This project can be broken down into 3 modules:
 Simulation Demonstration:  [Click](https://drive.google.com/drive/folders/1RO7SM88A_VNxnZvil1Jpp3BAMKBh6JB_?usp=sharing) to view the simulation of our  proposed system.
 
 ![](https://drive.google.com/file/d/17TLH60VoSxW6PFZHFpM82vaRdutnihgT/view?usp=sharing)
+* `Vehicle Detection`
+
+<p align="center">
+ <img height=400px src="./"C:\Users\SARAVANARAJAN\Documents\vehicle-detection.png"" alt="Vehicle Detection">
+</p>
+
+<br> 
+
+* `Signal Switching Algorithm and Simulation`
+
+<p align="center">
+    <img src="./Demo.gif">
+</p>
+
