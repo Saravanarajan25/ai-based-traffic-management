@@ -98,5 +98,6 @@ Simulation Demonstration:  [Click](https://drive.google.com/drive/folders/1RO7SM
 * `Traffic rules violation detection`
   
 <p align="center">
-    <img src="./rules.gif">
+    <img src="https://raw.githubusercontent.com/Saravanarajan25/ai-based-traffic-management/main/rules.gif" alt="Rules">
 </p>
+
