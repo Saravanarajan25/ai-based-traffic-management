@@ -15,19 +15,19 @@ To address this, we developed an improved traffic management system using a Comp
 
 ### Additional Features
 
-1. Congestion Alerts: Provides real-time updates about traffic jams to previous signals or drivers, helping them choose better routes and avoid congested areas.
+1. Congestion Alerts: Provides real-time updates about traffic jams to previous signals , helping them choose better routes and avoid congested areas.
 
 
 2. Emergency Vehicle Priority: Detects emergency vehicle sirens and changes signals to give priority to ambulances, fire trucks, or police vehicles, ensuring they have a clear path through intersections.
 
 
-3. Signal Fault Detection: Monitors traffic signals for malfunctions, such as lights stuck on red or not functioning. It instantly alerts authorities, allowing quick repairs and minimizing disruptions.
+3. Signal Fault Detection: Monitors traffic signals for malfunctions, such as lights stuck on not functioning. It instantly alerts authorities, allowing quick repairs and minimizing disruptions.
 
 
 4. Red Light Violation Detection: Identifies vehicles that run red lights, capturing violations to help enforce traffic laws and improve safety.
 
 
-5. Peak Hour Optimization: Adjusts signal timing during rush hours to handle increased traffic flow, reducing congestion and easing bottlenecks at high-traffic times.
+5. Peak Hour Optimization: if four way junction experience the heavy traffic during that time system analysis the past data that store on the server and adjust the green signal timing accordingly 
 
 
 
