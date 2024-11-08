@@ -91,6 +91,6 @@ Simulation Demonstration:  [Click](https://drive.google.com/drive/folders/1RO7SM
 * `Signal Switching Algorithm and Simulation`
 
 <p align="center">
-    <img src="./Demo.gif">
+    <img src="./">
 </p>
 
