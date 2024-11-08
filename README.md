@@ -94,6 +94,8 @@ Simulation Demonstration:  [Click](https://drive.google.com/drive/folders/1RO7SM
     <img src="./Demo.gif">
 </p>
 
+
+
 * `Traffic rules violation detection`
   
 <p align="center">
