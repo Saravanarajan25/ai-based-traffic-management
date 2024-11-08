@@ -83,7 +83,7 @@ Simulation Demonstration:  [Click](https://drive.google.com/drive/folders/1RO7SM
 * `Vehicle Detection`
 
 <p align="center">
- <img height=400px src="./"C:\Users\SARAVANARAJAN\Documents\vehicle-detection.png"" alt="Vehicle Detection">
+  <img height="400px" src="https://github.com/Saravanarajan25/ai-based-traffic-management/raw/main/vehicle-detection.png" alt="Vehicle Detection">
 </p>
 
 <br> 
