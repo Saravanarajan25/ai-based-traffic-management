@@ -79,4 +79,4 @@ This project can be broken down into 3 modules:
 ### Demo
 Simulation Demonstration:  [Click](https://drive.google.com/drive/folders/1RO7SM88A_VNxnZvil1Jpp3BAMKBh6JB_?usp=sharing) to view the simulation of our  proposed system.
 
-[Video](https://drive.google.com/file/d/17TLH60VoSxW6PFZHFpM82vaRdutnihgT/view?usp=sharing)
+![](https://drive.google.com/file/d/17TLH60VoSxW6PFZHFpM82vaRdutnihgT/view?usp=sharing)
